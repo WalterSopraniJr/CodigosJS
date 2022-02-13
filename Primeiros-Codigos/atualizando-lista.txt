@@ -1,0 +1,5 @@
+//atualizando listas com splice()
+//splice permite remover e acrescentar informações dentro das arrays
+//parâmetro: var.splice(qual indice começa, remove quantos elementos, adiciona elementos no lugar)
+
+const listaDeChamada = ['João', ]
